@@ -58,5 +58,3 @@ python chatbot.py
 This will launch a local Gradio interface in your browser.
 
 ---
-
-Let me know if you'd like Docker support, GPU setup help, or deployment steps too!
